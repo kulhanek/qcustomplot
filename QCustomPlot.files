@@ -1,0 +1,9 @@
+CMakeClean.sh
+CMakeLists.txt
+GPL.txt
+changelog.txt
+src/CMakeLists.txt
+src/lib/CMakeLists.txt
+src/lib/qcustomplot/CMakeLists.txt
+src/lib/qcustomplot/qcustomplot.cpp
+src/lib/qcustomplot/qcustomplot.h
